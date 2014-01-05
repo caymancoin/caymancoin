@@ -1,0 +1,9 @@
+Building Caymancoin
+
+See doc/readme-qt.rst for instructions on building Caymancoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Caymancoin.
+
+See doc/build-*.txt for instructions on building caymancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Caymancoin.
